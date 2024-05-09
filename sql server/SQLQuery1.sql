@@ -1,0 +1,6 @@
+SELECT TOP (1000) [question]
+      ,[Name]
+      ,[Time]
+      ,[College]
+      ,[Done]
+  FROM [etp].[dbo].[etp]
